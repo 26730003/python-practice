@@ -1,0 +1,11 @@
+n='hong gildong'
+a="I'm 15 years old"
+print('my name is {n}')
+print(a)
+A = "apple orange banana"
+w = A.split()
+w.reverse()
+print(w[0], w[1], w[2])
+B = "   Hello world!   "
+print(B)
+print(B.strip())
