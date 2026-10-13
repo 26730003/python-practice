@@ -1,0 +1,3 @@
+n= input()
+a= input()
+print(f"{n} is {a} years old.")
