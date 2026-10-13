@@ -1,0 +1,4 @@
+name = "Hong Gildong"
+age = "I'm 15 years old"
+print('My name is "' + name + '"')
+print(age)
