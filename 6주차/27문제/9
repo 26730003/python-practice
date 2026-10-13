@@ -1,0 +1,4 @@
+n1, a1 = input().split()
+n2, a2 = input().split()
+ag= int(a1) - int(a2)
+print(f"{n1}'s age - {n2}'s age = {ag}")
