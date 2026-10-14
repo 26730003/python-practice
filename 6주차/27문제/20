@@ -1,0 +1,6 @@
+p = input()
+p2 = input()
+if p in p2 * 5:
+    print("YES")
+else:
+    print("NO")
